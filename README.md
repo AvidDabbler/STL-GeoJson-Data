@@ -8,9 +8,13 @@ As of this point this data is just static content for boundaries of Neighborhood
 The wards data comes directly from the St Louis Open Data Portal 
 - [Online Map](https://stlcity.maps.arcgis.com/home/webmap/viewer.html?webmap=c4cb15ba61cc474aaa8e49d64218ed0f)
 - [Shapefile Download](https://www.stlouis-mo.gov/data/upload/data-files/nbrhds_wards.zip)
+- [GeoJson Download/Reference Link](https://raw.githubusercontent.com/AvidDabbler/STL-GeoJson-Data/main/Wards_2010.geojson)
+- [JSON Download/Reference Link](https://raw.githubusercontent.com/AvidDabbler/STL-GeoJson-Data/main/Wards_2010.json)
 
 ## Neighborhoods
 The neighborhoods data comes directly from the St Louis Open Data Portal 
 
 - [Online Map](https://stlcity.maps.arcgis.com/home/webmap/viewer.html?webmap=1dff446cfb4e4db59a6c0adff2ab7b67)
 - [Shapefile Download](https://www.stlouis-mo.gov/data/upload/data-files/nbrhds_wards.zip)
+- [GeoJson Download/Reference Link](https://raw.githubusercontent.com/AvidDabbler/STL-GeoJson-Data/main/Neighborhood_Boundaries.geojson)
+- [JSON Download/Reference Link](https://raw.githubusercontent.com/AvidDabbler/STL-GeoJson-Data/main/Neighborhood_Boundaries.json)
