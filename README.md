@@ -18,3 +18,10 @@ The neighborhoods data comes directly from the St Louis Open Data Portal
 - [Shapefile Download](https://www.stlouis-mo.gov/data/upload/data-files/nbrhds_wards.zip) (St Louis City Open Data)
 - [GeoJson Download/Reference Link](https://raw.githubusercontent.com/AvidDabbler/STL-GeoJson-Data/main/Neighborhood_Boundaries.geojson)
 - [JSON Download/Reference Link](https://raw.githubusercontent.com/AvidDabbler/STL-GeoJson-Data/main/Neighborhood_Boundaries.json)
+
+## Parks
+The parks data comes directly from the St Louis Open Data Portal 
+
+- [Shapefile Download](https://www.stlouis-mo.gov/data/upload/data-files/parks.zip) (St Louis City Open Data)
+- [GeoJson Download/Reference Link](https://raw.githubusercontent.com/AvidDabbler/STL-GeoJson-Data/main/Parks.geojson)
+- [JSON Download/Reference Link](https://raw.githubusercontent.com/AvidDabbler/STL-GeoJson-Data/main/Parks.json)
